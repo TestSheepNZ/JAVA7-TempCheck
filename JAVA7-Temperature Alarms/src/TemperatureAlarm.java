@@ -10,7 +10,7 @@
  * Mike Talks, Aug 2016
  */
 
-public class temperatureAlarm {
+public class TemperatureAlarm {
 
 	
 	public static void checkTemp (double temp)
